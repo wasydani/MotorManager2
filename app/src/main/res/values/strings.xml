@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MotorManager</string>
+    <string name="connect">"Connected"</string>
+    <string name="disconnected">"Disconnected"</string>
+    <string name="connecting">"Connecting&#8230;"</string>
+    <string name="conn_fail">"Connection failed"</string>
+    <string name="disabled">Disconnected  Show Device List:</string>
+    <string name="willkommen_fahrmodus">Willkommen im Fahrmodus!</string>
+    <string name="nullProzent">0 %</string>
+    <string name="nullGrad">-- °C</string>
+    <string name="nullRPM">0000 RPM</string>
+    <string name="nullKMH">0.0 km/h</string>
+</resources>
